@@ -4,7 +4,7 @@ $title = "What Are the Limitations of Using AI for Blog Writing?";
 $description = "Discover the limitations of using AI for blog writing, including issues of creativity, contextual understanding, plagiarism, and ethical considerations.";
 $keywords = "AI Blog Writer, limitations of AI writing, make writing sound less AI, AI content generation challenges, ethical concerns in AI writing.";
 $author = "Abdullah Saleem";
-$canonical_url = "YOUR_CANONICAL_URL_HERE"; // Replace with the actual URL.
+$canonical_url = "https://daily-ai-blog-writer-1fe99440c91f.herokuapp.com/"
 ?>
 
 <!DOCTYPE html>
