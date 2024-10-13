@@ -10,6 +10,7 @@ $canonical_url = "YOUR_CANONICAL_URL_HERE"; // Replace with the actual URL.
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="eHZA44qsNBd85vly85E8Ru-5Ty8DSr4-h8dcyUpFOsw" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="<?= $title; ?>">
